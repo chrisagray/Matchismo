@@ -2,6 +2,7 @@ Matchismo
 =========
 
 Sample iOS 7 card matching game created by following Stanford University's [CS193P](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/) course [Developing iOS 7 Apps for iPhone and iPad (2013/2014)](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550) on iTunes U.
+
 ![alt text](http://a4.mzstatic.com/us/r30/CobaltPublic4/v4/21/50/bb/2150bb4a-211a-f13b-cf0a-72dbb661be80/d2_160.png)
 
 Lectures
@@ -14,4 +15,4 @@ App
 
 Picture of the app running on a simulated 4" retina screen iPhone 5S
 
-![alt text](file://localhost/Users/Chris/Desktop/Screen%20Shot%202014-08-21%20at%201.31.25%20AM.png)
+![alt text](http://i.imgur.com/OcirkOI.png)
