@@ -15,4 +15,4 @@ App
 
 Picture of the app running on a simulated 4" retina screen iPhone 5S
 
-![alt text](http://i.imgur.com/OcirkOI.png)
+![alt text](http://imgur.com/b7Ej6mI)
